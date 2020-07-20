@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -76,5 +76,4 @@
 <!-- END MAIN -->
 </div>
 
-</body>
-</html>
+<footer> <h6> Copyright: George Mason University </h6><footer>
