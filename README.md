@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+<body>
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
 
 <body>
 <h1> Student Portfolio </h1>
@@ -8,18 +20,61 @@
       <li><a href="https://mswartze-creator.github.io/Student-Life/">Student Life</a>
       <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Volunteer Work</a>
       <li><a href="https://mswartze-creator.github.io/Student-Portfolio/">Landing Page</a>
-
-<h1>Hobbies</h1>
+      
+   <h1>Hobbies</h1>
 
 <h2>Artwork</h2>
 <p> In my free time, I paint quite a bit! I've been working on commissioned artwork for the past three years. A few examples of this artwork are provided below!</p>
 
-<picture> <img src="20200703_180739.jpg" alt="Captain America" width="600" height="500"> </picture>
-<picture> <img src="20200720_115108.jpg" alt="Darth Vader" width="300" height="600"> </picture>
-<picture> <img src="20200720_115150.jpg" alt="Bob Ross Speed Paint" width="400" height="600"> </picture>
-<picture> <img src="20200720_115330.jpg" alt="Tom Brady" width="400" height="600"> </picture>
-<picture> <img src="20200720_115257.jpg" alt="Mountains" width="400" height="400"> </picture>
-<picture> <img src="20200720_115459.jpg" alt="Commission" width="750" height="600"> </picture>
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="20200703_180739.jpg" alt="Mountains" style="width:100%">
+      <h3>Captain America</h3>
+      <p>Captain America, Acrylic, 2017.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="20200720_115108.jpg" alt="Lights" style="width:100%">
+      <h3>Darth Vader</h3>
+      <p>Darth Vader, Acrylic, 2017.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="20200720_115150.jpg">
+      <h3>Speed Paint</h3>
+      <p>Bob Ross Speed Paint completed in 2.5 minutes during talent show! It currently resides on my friends' livingroom ceiling. 2020</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="20200720_115330.jpg" alt="Mountains" style="width:100%">
+      <h3>Tom Brady</h3>
+      <p>Commissioned pop art portrait of Tom Brady, 2019</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="20200720_115257.jpg" alt="Mountains" style="width:100%">
+      <h3>Mountains</h3>
+      <p>Commissioned four-part painting of the Alaskan Mountain Range, Acrylic, 2020</p>
+      </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="20200720_115459.jpg" alt="Mountains" style="width:100%">
+      <h3>Shadow Team</h3>
+      <p>Commissioned 3 by 4 foot piece, Acrylic, 2019</p>
+<!-- END GRID -->
+</div>
 
-<footer> <h6> Copyright: George Mason University </h6> </footer>
+<div class="content">
 
+<!-- END MAIN -->
+</div>
+
+</body>
+</html>
