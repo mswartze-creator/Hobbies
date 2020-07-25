@@ -26,6 +26,7 @@
 <h2>Artwork</h2>
 <p> In my free time, I paint quite a bit! I've been working on commissioned artwork for the past three years. A few examples of this artwork are provided below!</p>
 
+<div class="gallery"></div>
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
